@@ -56,3 +56,28 @@ Once you have succesfully installed r2modman, you can finally install mods.
 ![Start Lethal Company Modded](../docs/files/r2modman-install/startmodded.png)
 
 That's it! You have just successfully modded Lethal Company!
+
+## Sharing Profiles
+
+Once you've collected a bunch of mods you most likely want your friends to have the same mods too, so let's do this with sharing!
+
+### Exporting a Profile
+
+1. Select **"Export profile as code"** in the **profile tab** in settings of your profile.
+
+![Exporting Profile](../docs/files/r2modman-install/exportprofilecode.png)
+
+This will copy a code you can send to friends to your clipboard automatically.
+
+### Importing a Profile
+
+1. Click **"Import/Update"** in the **Profile selction** area after selecting Lethal Company in r2modman.
+
+![Importing Profile](../docs/files/r2modman-install/importprofile.png)
+
+2. Select either **Import or Update** depending on what you are doing.
+3. Choose the **"From code"** option and paste in your code.
+
+![Import code](../docs/files/r2modman-install/importfromcode.png)
+
+Now you have shared your mods! You can start modded and play with friends now!
